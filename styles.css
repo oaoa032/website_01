@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
 
-html{
+    html{
     font-family: 'Roboto', sans-serif;
     background: rgb(0,255,231);
     background: linear-gradient(90deg, rgba(0,255,231,0.5578606442577031) 17%, rgba(0,189,238,1) 31%, rgba(0,160,241,1) 36%, rgba(0,26,255,0.5578606442577031) 89%);
     text-align: center;
+    }
+    iframe.ChromeDino{
+        text-align: center;
+    }
     
-}
+
+    
